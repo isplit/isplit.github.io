@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<search> 
+  
+  
+    
+    <entry>
+      <title>发布测试</title>
+      <link href="/posts/%E5%8F%91%E5%B8%83%E6%B5%8B%E8%AF%95/"/>
+      <url>/posts/%E5%8F%91%E5%B8%83%E6%B5%8B%E8%AF%95/</url>
+      
+        <content type="html"><![CDATA[<h1 id="博客发布测试"><a href="#博客发布测试" class="headerlink" title="博客发布测试"></a>博客发布测试</h1><h2 id="2级标题"><a href="#2级标题" class="headerlink" title="2级标题"></a>2级标题</h2><figure class="highlight python"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br></pre></td><td class="code"><pre><span class="line"><span class="keyword">from</span> bs4 <span class="keyword">import</span> BeautifulSoup</span><br><span class="line"><span class="function"><span class="keyword">def</span> <span class="title">func</span><span class="params">(args)</span>:</span></span><br><span class="line">    <span class="keyword">return</span> args</span><br></pre></td></tr></table></figure><img data-src="/posts/发布测试/split.jpg"><div class="note ">            <p>Content (md partial supported) </p>          </div><div class="note default">            <p>default Content (md partial supported) </p>          </div><div class="note primary">            <p>primary Content (md partial supported) </p>          </div><div class="note success">            <p>success Content (md partial supported) </p>          </div><div class="note info">            <p>info Content (md partial supported) </p>          </div><div class="note warning">            <p>warning Content (md partial supported) </p>          </div><div class="note danger">            <p>danger Content (md partial supported) </p>          </div><div class="note danger">            <p><i class="fa fa-spinner fa-pulse fa-lg margin-bottom" aria-hidden="true"></i>&nbsp;未完待续…有空继续…</p>          </div><hr><blockquote class="blockquote-center"><p>$$n\cdot m\cdot \lg  b$$ </p></blockquote><a id="more"></a><p>Simple inline $a = b + c$.</p><p>$$\frac{\partial u}{\partial t}<br>= h^2 \left( \frac{\partial^2 u}{\partial x^2} +<br>\frac{\partial^2 u}{\partial y^2} +<br>\frac{\partial^2 u}{\partial z^2}\right)$$</p><p>$$J\left(\theta\right)<br>= -\left[\frac{1}{m}\sum_{i=1}^{m}y^\left(i\right)log\left(h_{\theta}\left(x^{\left(i\right)}\right)\right)+<br>\left(1-y^{\left(i\right)}\right)log\left(1-h_{\theta}\left(x^{\left(i\right)}\right)\right)\right]+<br>\frac{\lambda}{2m}\sum_{j=1}^{n}\theta_{j}^{2}$$</p><table><thead><tr><th align="center">$Size in feet^{2}$ (x)</th><th align="center">$prize$ (y)</th></tr></thead><tbody><tr><td align="center">2104</td><td align="center">460</td></tr><tr><td align="center">1416</td><td align="center">232</td></tr><tr><td align="center">1534</td><td align="center">315</td></tr><tr><td align="center">852</td><td align="center">178</td></tr></tbody></table><img data-src="http://www.plantuml.com/plantuml/svg/qqWqDDHKqBLJq4WqDDBaqa1mZL2vna0ka6-4gje8LRKHccfZLDN6gAgDaLG30000"><br><img data-src="http://www.plantuml.com/plantuml/svg/POv12iCm30Jl-mfz81y8mM0xBoYKdesZWod4gQ8M-ljQJY65NdJGxixkbaHBBbjQbQux2s2N1aT-fBdUgjoHifPNKYOFU9F2IDD4MRWzB_nuygxatEaBG31V_4T4H1eEX0bpNHbBoqjzDyrYH_KN6tl7qYo_y3x2TXg_0yw97m00"><br><pre class="mermaid" style="text-align: center;">                        graph LR;    a11(("a1[0](i)")) --> a12(("a1[1](i)"));    a11(("a1[0](i)")) --> a22(("a2[1](i)"));    a11(("a1[0](i)")) --> a32(("a3[1](i)"));    a21(("a2[0](i)")) --> a12(("a1[1](i)"));    a21(("a2[0](i)")) --> a22(("a2[1](i)"));    a21(("a2[0](i)")) --> a32(("a3[1](i)"));    a31(("a3[0](i)")) --> a12(("a1[1](i)"));    a31(("a3[0](i)")) --> a22(("a2[1](i)"));    a31(("a3[0](i)")) --> a32(("a3[1](i)"));    a12(("a1[1](i)")) --> y(("a1[2](i)"));    a22(("a2[1](i)")) --> y(("a1[2](i)"));    a32(("a3[1](i)")) --> y(("a1[2](i)"));    y(("a1[2](i)")) --> yh((yhat));          </pre><pre class="mermaid" style="text-align: center;">                        graph TB;    subgraph L0;    a11(("a1[0](i)")) --- a21(("a2[0](i)"));    a21(("a2[0](i)")) --- a31(("a3[0](i)"));    end;          </pre>]]></content>
+      
+      
+      <categories>
+          
+          <category> 回收站 </category>
+          
+      </categories>
+      
+      
+        <tags>
+            
+            <tag> 博客测试 </tag>
+            
+        </tags>
+      
+    </entry>
+    
+    
+  
+  
+</search>
