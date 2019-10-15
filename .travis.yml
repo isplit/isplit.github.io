@@ -29,6 +29,8 @@ after_script:
 - git checkout master
 - mv .git/ ../public/
 - cd ../public
+# 添加 README
+- mv ../.travis/README.md ./
 # 提交
 - git config user.name "isplit"
 - git config user.email "i-split@outlook.com"
