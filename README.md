@@ -31,6 +31,6 @@
 ### 安装 npm 包
 
 根据 `package.json` 安装
-    ```shell
+    ```
     npm install --save
     ```
