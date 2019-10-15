@@ -1,0 +1,8 @@
+# github
+Host github.com
+	HostName github.com
+	PreferredAuthentications publickey
+	StrictHostKeyChecking no
+	IdentitiesOnly yes
+	IdentityFile ~/.ssh/travis_rsa
+	User isplit
