@@ -126,10 +126,10 @@ scheme: Muse
 # External url should start with http:// or https://
 menu:
   home: / || home
-  #about: /about/ || user
   #tags: /tags/ || tags
   categories: /categories/ || th
   archives: /archives/ || archive
+  about: /about/ || user
   #schedule: /schedule/ || calendar
   #sitemap: /sitemap.xml || sitemap
   #commonweal: /404/ || heartbeat
@@ -656,7 +656,7 @@ valine:
   notify: false # Mail notifier. See: https://github.com/xCss/Valine/wiki
   verify: true # Verification code
   placeholder: 填上邮箱可以收到回复的邮件提醒哦～ # Comment box placeholder
-  avatar: mm # Gravatar style
+  avatar: retro # Gravatar style
   guest_info: nick,mail,link # Custom comment header
   pageSize: 10 # Pagination size
   language: zh-cn # Language, available values: en, zh-cn
