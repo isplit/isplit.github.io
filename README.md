@@ -1,6 +1,6 @@
 # Blog source file
 
-[![Travis](https://www.travis-ci.org/isplit/isplit.github.io.svg?branch=master)](https://isplit.github.io)
+[![Travis](https://www.travis-ci.org/isplit/isplit.github.io.svg?branch=dev)](https://isplit.github.io)
 
 ## 开发步骤
 
@@ -30,7 +30,8 @@
 
 ### 安装 npm 包
 
-- 根据 `package.json` 安装
-    ```
-    npm install --save
-    ```
+根据 `package.json` 安装
+
+```
+npm install --save
+```
