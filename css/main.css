@@ -205,7 +205,7 @@ span.exturl {
   overflow-wrap: break-word;
   word-wrap: break-word;
   border-bottom: 1px solid #999;
-  color: #0684bd;
+  color: #555;
   outline: 0;
   text-decoration: none;
   cursor: pointer;
@@ -1288,7 +1288,7 @@ pre .javascript .function {
 }
 .links-of-author a::before,
 .links-of-author span.exturl::before {
-  background: #ec8b42;
+  background: #afc9e3;
   border-radius: 50%;
   content: ' ';
   display: inline-block;
